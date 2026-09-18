@@ -21521,3 +21521,113 @@ Script 'Foo.cs' will not be compiled because it exists outside the Assets folder
 Script 'Foo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
 Asset Pipeline Refresh (id=c022fe451e49f4cb89412b16be25c03c): Total: 0.091 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
 [Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=77e3ce37c901447209c549b9e069966b): Total: 0.084 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=e5dbb16d6cfbd4ffcb217b60509ac3cb): Total: 0.090 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+2026-09-18 16:19:26.026 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc46b5b8e0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=12b1cddf6b80d4df2bc7ed922e4786d9): Total: 0.080 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=ccbbf6db8f33b4e80a1976bdd82b98a2): Total: 0.080 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+2026-09-18 16:20:33.667 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc55c75d60 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:20:36.740 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc46b5e080 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=3f0b02a25ed8b47939b8be15d59f0145): Total: 0.077 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=9ec3748aef03d4879b61c9974e4e07b0): Total: 0.002 seconds - Initiated by StopAssetImportingV2(ForceUpdate)
+2026-09-18 16:21:08.176 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc42208a00 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:21:12.056 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc4220d9a0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=73db205888af342848fafc5a9c3f7d19): Total: 0.075 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=0bbfee36bb996454d9d4c55357906dab): Total: 0.073 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=71b74035fe45f4518b38fcbf882e4c22): Total: 0.074 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=ce91b9a434c1846ff96d4565dc564e14): Total: 0.078 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=453fde3dd2bbd4e9c82f07d85cee975c): Total: 0.076 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+2026-09-18 16:24:26.313 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc42208be0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Thread 0x466ed7000 may have been prematurely finalized
+GPU Resident Drawer disposed.
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+Unloading 53 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.775 ms
+	Integration:            25.615 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.011 ms
+	Total Operation Time:   26.402 ms
+Unloading 20 unused Assets / (2.3 MB). Loaded Objects now: 9984.
+Memory consumption went from 0.68 GB to 0.67 GB.
+Total: 34.325084 ms (FindLiveObjects: 0.388625 ms CreateObjectMapping: 0.070667 ms MarkObjects: 33.641667 ms  DeleteObjects: 0.080750 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+GPU Resident Drawer created.
+Asset Pipeline Refresh (id=0ffd68b2329854484bec461faab1d32e): Total: 0.077 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=4b3aca599bc644fa9a2a2d0f56918354): Total: 0.080 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=7d4fe59a6e1274a70bc5edbe5474c00d): Total: 0.078 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=99b94649d032e4a1794a87329bed007c): Total: 0.075 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=e3eb41ffbcea347f28f7f49bae8a09c4): Total: 0.070 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+2026-09-18 16:35:31.603 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc453be260 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:35:33.863 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc42209e00 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:35:36.323 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc46b50b40 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:35:46.898 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc44ccd360 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=f37e7d2f4f9ac4afbb0611b21749ccaf): Total: 0.002 seconds - Initiated by StopAssetImportingV2(ForceUpdate)
+2026-09-18 16:36:22.051 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc4221e260 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:36:25.336 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc422a38e0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=e7121c23a77a8441ea66055771e27a8d): Total: 0.077 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=1862f9006a7f84a838bb88cafb03c7f8): Total: 0.079 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+GPU Resident Drawer disposed.
+Thread 0x422bc7000 may have been prematurely finalized
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+GPU Resident Drawer created.
+GPU Resident Drawer disposed.
+Unloading 55 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.505 ms
+	Integration:            17.388 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   17.902 ms
+Unloading 20 unused Assets / (1.6 MB). Loaded Objects now: 10007.
+Memory consumption went from 0.72 GB to 0.72 GB.
+Total: 25.987584 ms (FindLiveObjects: 0.327459 ms CreateObjectMapping: 0.049875 ms MarkObjects: 25.435750 ms  DeleteObjects: 0.062750 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+GPU Resident Drawer created.
+Asset Pipeline Refresh (id=d76b83e66a4f4452090de49663b0fd97): Total: 0.096 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+2026-09-18 16:46:44.494 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc453beee0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:44.501 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc422a3d40 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:44.503 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc4221d220 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:44.505 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc46b503c0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:44.508 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc422a29e0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:44.510 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc4281fc00 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:46.444 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc422154a0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:50.988 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc42216120 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:50.990 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc422d3700 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:50.993 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc422163a0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:50.995 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc422d3ac0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:50.997 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc46b515e0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:51.000 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc422d0640 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:53.998 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc453be760 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-09-18 16:46:56.399 Unity[87561:3864606] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc46b58320 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=d313681bdd2cc4d8ba34bab6e0d7d53e): Total: 0.075 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=41eaf72506d4f40aa8d30dbd0161d1d4): Total: 0.090 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=c3bdbdce5d1ec4d51a9ac33d4b061caa): Total: 0.084 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=fcccfb4655ed94e6698c40c734819447): Total: 0.077 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=207888b1f024141bf99aff5aaf08df44): Total: 0.082 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Script 'Foo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Foo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
