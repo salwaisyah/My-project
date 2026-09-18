@@ -894,3 +894,19 @@ params: {}
 [2026-09-18T06:54:34.939Z][INFO] project:list-packages <-- Request received
 params: {}
 [2026-09-18T06:54:35.024Z][INFO] project:list-packages --> 200 (85 ms)
+[2026-09-18T07:55:40.681Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-09-18T07:55:44.010Z][WARN] Requested version [2.8.4] for package [com.unity.splines] overridden by minimum version [2.9.0].
+[2026-09-18T07:55:44.010Z][WARN] Requested version [4.9.3] for package [com.unity.searcher] overridden by minimum version [4.9.5].
+[2026-09-18T07:55:44.010Z][WARN] Requested version [1.0.3] for package [com.unity.settings-manager] overridden by minimum version [2.1.1].
+[2026-09-18T07:55:44.011Z][INFO] project:resolve-packages --> 200 (3332 ms)
+[2026-09-18T07:55:44.270Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-09-18T07:55:44.274Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-09-18T07:55:44.281Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-18T07:55:44.425Z][INFO] project:list-packages --> 200 (144 ms)
+[2026-09-18T07:55:48.765Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-18T07:55:48.833Z][INFO] project:list-packages --> 200 (68 ms)
+[2026-09-18T07:56:00.425Z][INFO] Received shutdown request (SIGTERM), shutting down Unity Package Manager

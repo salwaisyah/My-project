@@ -55333,3 +55333,26 @@ Importing 'GUID: c745a050b0002421e947233864d5fa64 - Path: Assets/LILO-Prototype.
 Imported 'GUID: c745a050b0002421e947233864d5fa64' -> (Import Result ID: 'a416c4d4cf68f5a971470207cf259a1f') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2a750beb72d56c285085b31105322100 DependenciesID=303d43611bfa7009965dd4f268bcf5a3 StaticDependenciesID=2b76917b961767dad31e94c385eb5ee9 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 70 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6866 unused Assets / (14.5 MB). Loaded Objects now: 8090.
+Memory consumption went from 378.5 MB to 364.1 MB.
+Total: 26.432917 ms (FindLiveObjects: 1.404083 ms CreateObjectMapping: 0.467375 ms MarkObjects: 18.714417 ms  DeleteObjects: 5.616917 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Editor is closing down
+AcceleratorClientConnectionCallback - disconnected - :0
+Thread 0x17de47000 may have been prematurely finalized
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0
